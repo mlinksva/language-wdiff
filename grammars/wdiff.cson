@@ -1,0 +1,15 @@
+'fileTypes': [
+  'wdiff'
+]
+'name': 'Wdiff'
+'patterns': [
+  {
+    'match': '\\[-.*?-]'
+    'name': 'markup.deleted.wdiff'
+  }
+  {
+    'match': '{+.*?+}'
+    'name': 'markup.inserted.wdiff'
+  }
+]
+'scopeName': 'source.wdiff'

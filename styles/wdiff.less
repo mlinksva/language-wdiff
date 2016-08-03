@@ -1,0 +1,11 @@
+@import "syntax-variables";
+atom-text-editor::shadow {
+  .wdiff {
+    &.inserted {
+      color: @syntax-color-added;
+    }
+    &.deleted {
+      color: @syntax-color-removed;
+    }
+  }
+}

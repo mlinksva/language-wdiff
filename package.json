@@ -1,0 +1,15 @@
+{
+  "name": "language-wdiff",
+  "version": "0.1.0",
+  "description": "Highlight *.wdiff files",
+  "keywords": [
+    "wdiff"
+  ],
+  "repository": "https://github.com/mlinksva/language-wdiff",
+  "license": "Unlicense",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

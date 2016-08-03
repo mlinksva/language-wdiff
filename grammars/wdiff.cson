@@ -11,5 +11,9 @@
     'match': '{+.*?+}'
     'name': 'markup.inserted.wdiff'
   }
+  {
+    'match': '^.+:\\s+\\d+ words\\s+\\d+\\s+\\d+%\\s+common\\s+\\d+\\s+\\d+%\\s+(deleted|inserted)\\s+\\d+\\s+\\d+%\\s+changed'
+    'name': 'markup.statistics.wdiff'
+  }
 ]
 'scopeName': 'source.wdiff'

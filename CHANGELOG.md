@@ -3,3 +3,6 @@
 
 ## 0.2.0
 * Very basic English-only highlighting of statistics output by wdiff -s
+
+## 0.3.0
+* atom 1.13 deprecation of shadow psuedo-selector

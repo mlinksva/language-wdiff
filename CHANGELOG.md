@@ -10,3 +10,6 @@
 ## 0.3.1
 * ignore maxLineLength to keep matching after 1000 chars
 * avoid spurious matches caused by poorly escaped regex
+
+## 0.3.3
+* I don't know how apm publish works

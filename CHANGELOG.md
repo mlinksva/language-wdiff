@@ -6,3 +6,7 @@
 
 ## 0.3.0
 * atom 1.13 deprecation of shadow psuedo-selector
+
+## 0.3.1
+* ignore maxLineLength to keep matching after 1000 chars
+* avoid spurious matches caused by poorly escaped regex

@@ -8,7 +8,7 @@ patterns: [
     name: 'markup.deleted.wdiff'
   }
   {
-    match: '{+.*?+}'
+    match: '{\\+.*?\\+}'
     name: 'markup.inserted.wdiff'
   }
   {
